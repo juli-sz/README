@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">I'm studying Systems Engineering at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools</h3>
+<h4 align="center">I'm studying Systems Engineering at UTN FRRe. I'm enthusiastic about technology and web development, and I'm currently enhancing my skills in some programming languages and tools</h4>
 
 ###
 
